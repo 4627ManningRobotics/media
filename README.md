@@ -32,7 +32,7 @@ All media in this repository is the property of Team 4627 and its respective spo
 
 ## Contact
 
-For any queries or further information, please contact us at [email@email.com](mailto:email@email.com).
+For any queries or further information, please contact us at [manningrobotics@gmail.com](mailto:manningrobotics@gmail.com).
 
 ## Acknowledgements
 
@@ -40,4 +40,4 @@ A special thanks to all our team members, mentors, and sponsors who make each co
 
 ---
 
-This README is maintained by Team 4627. Last updated on [Last Update Date].
+This README is maintained by Team 4627. Last updated on February 1, 2024.
